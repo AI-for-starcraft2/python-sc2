@@ -1,4 +1,4 @@
-from sc2.generate_ids import IdGenerator
+from sc2.generate_ids_bug_friendlyname import IdGenerator
 
 if __name__ == "__main__":
     id_updater = IdGenerator()
